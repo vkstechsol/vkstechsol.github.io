@@ -27,7 +27,7 @@ submitButton.addEventListener("click", function() {
     const incorrectLetters = getIncorrectLetters(guess);
 
     if (attempts === 0) {
-       messageContainer.textContent = `Sorry, you ran out of attempts. The word was ${hiddenWord}.`;
+       messageContainer.textContent = `Sorry, you ran out of attempts.`;
       messageContainer.style.color = "red";
       inputBox.disabled = true;
       submitButton.disabled = true;
