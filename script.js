@@ -1,4 +1,4 @@
-const words = [" 1- Perfidious - धोखेबाज, बेईमान, विश्वासघाती ", " 2- Kinship - संबंध, रिश्ता, बंधन ", " 3- Magnanimous - उदार, दयालु, महानुभाव", " 4- Nefarious - दुर्जन, दुष्ट, अनैतिक", " 5- Lethargy - सुस्ती, आलस्य, अव्यावर्तिकता ", "6- Omnipotent - सर्वशक्तिमान, सर्वव्यापी", " 7- Hierarchy - श्रेणीबद्धता, ", " 8- Intrepid - निडर, निर्भीक, दिलेर ", " 9- Juxtaposition - एक साथ रखना "," 10- Eloquent - बोलचाल कुशलता से सम्बंधित" ];
+const words = [" 1- Chatty - धबातूनी ", " 2- Kinship - संबंध, रिश्ता", " 3- Magnanimous - उदार, दयालु, ", " 4- Nefarious - दुर्जन, दुष्ट,", " 5- Stingy- कंजूस ", "6- Fearless -निडर ", " 7- Slim - दुबला-पतला, ", " 8- Diligent - मेहनती", " 9- Candid - मासूम"," 10-Docile - विनम्र"," 11- Silently - दिल ही दिल में", " 12- Get Annoyed - नाराज़ होना", " 13- Back out - मुकर जाना", " 14 - Make promises - वादे करना:, " 15- Guide - मार्गदर्शक" ];
 
 let index = 0;
 const wordElement = document.getElementById("word");
