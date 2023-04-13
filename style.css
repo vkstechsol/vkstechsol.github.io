@@ -93,5 +93,21 @@ body {
     color: #333;
     text-shadow: 1px 1px #d88282;
   }
+
+ #nextButton {
+    font-size: 20px;
+    padding: 05px 10px;
+    border: none;
+    background-color: #4CAF50;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.2s;
+    
+
+  }
+  
+  #nextButton:hover {
+    background-color: #ed1a0b;
+  }
   
   
